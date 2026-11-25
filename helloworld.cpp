@@ -4,6 +4,7 @@
 int main(){
     //standard = std, character output = cout
     std::cout << "I like pasta" << std::endl; //endl = end line
-    std::cout << "I also like chinese food!" << '\n'; //'\n' also ends line
+    std::cout << "I also like chinese food! \n"; //'\n' also ends line
+    std::cout << "This is a new line";
     return 0;
 }
