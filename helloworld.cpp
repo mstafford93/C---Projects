@@ -2,7 +2,7 @@
 
 int main(){
     //standard = std, character output = cout
-    std::cout << "I like pasta";
-    
+    std::cout << "I like pasta" << std::endl; //endl = end line
+    std::cout << "I also like chinese food!" << '\n'; //'\n' also ends line
     return 0;
 }
