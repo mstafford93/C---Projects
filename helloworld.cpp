@@ -1,4 +1,5 @@
 #include <iostream> //Header file that contains functions for basic input/ output operations
+//using namespace std; //Can use names for variables and objects from standard library
 
 int main(){
     //standard = std, character output = cout
